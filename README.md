@@ -1,6 +1,6 @@
 # PostgreSQL Queries - Patika.dev ASP.NET Core Assignment
 
-This repository contains SQL queries related to the PostgreSQL database as part of the assignment for the Patika.dev ASP.NET Core course. The queries are designed to perform various operations on the `film` and `actor` tables of a sample database.
+This repository contains SQL queries related to the PostgreSQL database as part of the assignment for the Patika.dev ASP.NET Core course. The queries are designed to perform various operations (especially BETWEEN , IN) on the `film` and `actor` tables of a sample database.
 
 ## Queries Overview
 
